@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @cetsvector
-- 👀 I’m interested in graphic design and UI design
-- 🌱 I’m currently learning Animation, which doesn't relate to what I am interested
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
